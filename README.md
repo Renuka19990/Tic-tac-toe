@@ -30,7 +30,9 @@ git clone https://github.com/Renuka19990/Tic-tac-toe
 
 
 Snapshot of Website
-<img src='FashionFusion/public/LandingPage1.png' alt="Landing Page Image"/>
+<img src='public/Screenshot_20240603_170222.png'/>
+<img src='public/Screenshot_20240603_170215.png'/>
+<img src='public/Screenshot_20240603_170149.png'/>
 
 ## Application Snapshots
 ![](FashionFusion/public/LandingPage1.png)
