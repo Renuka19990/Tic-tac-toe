@@ -18,14 +18,14 @@ This is a classic Tic Tac Toe game implemented using React.js. It allows two pla
 - Web Audio API for sound effects
 
 ## Getting Started
-
+Frontend:  https://tic-tac-toe-chi-henna.vercel.app/
 1. Clone the repository:
-
-```bash
+   
+bash
 git clone https://github.com/Renuka19990/Tic-tac-toe
 
 
-Frontend:  https://tic-tac-toe-chi-henna.vercel.app/
+
 
 
 
